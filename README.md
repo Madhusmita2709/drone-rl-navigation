@@ -40,5 +40,3 @@ conditions (calm, windy, storm) using Reinforcement Learning.
 
 ## Tech Stack
 `Python` `PyTorch` `OpenAI Gym` `Reinforcement Learning` `OpenCV`
-# drone-rl-navigation
-Weather-resilient drone navigation using Reinforcement Learning and OpenAI Gym
